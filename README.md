@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @casixx
+- 👋 Hi, I’m @ryan
 - 👀 I’m interested in some random stuff
-- 🌱 I’m currently learning making website
+- 🌱 I’m currently learning responsive website
 - 💞️ I’m looking to live like there's no tomorrow
-- 📫 How to reach me, well idk
+- 📫 How to reach me, u can email me at @ryan.casipe78@gmail.com
 - 😄 Pronouns he/his
-- ⚡ Fun fact: hehehe
+- ⚡ Fun fact: I love to being alone but I like with companions
 
 <!---
 casixx/casixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
