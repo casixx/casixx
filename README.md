@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryan
 - 👀 I’m interested in some random stuff
-- 🌱 I’m currently learning responsive website
+- 🌱 I’m currently to progress to learn more about web development
 - 💞️ I’m looking to live like there's no tomorrow
 - 📫 How to reach me, u can email me at @ryan.casipe78@gmail.com
 - 😄 Pronouns he/his
